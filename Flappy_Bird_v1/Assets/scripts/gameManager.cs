@@ -8,7 +8,7 @@ public class gameManager : MonoBehaviour
 {
 
     public int score;
-    public Text scoreText;
+    public TMPro.TextMeshProUGUI scoreText;
 
 
     // Start is called before the first frame update
